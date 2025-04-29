@@ -29,8 +29,6 @@ Each project is located in separe .java file under src/.
 
 Example: SimpleCalculator.java contains the calculator code.
 
-SimpleJavaProjects/
-
 <pre>
 SimpleJavaProjects/
 ├── src/
