@@ -32,7 +32,6 @@ Example: SimpleCalculator.java contains the calculator code.
 SimpleJavaProjects/
 
 <pre>
-```
 SimpleJavaProjects/
 ├── src/
 │   ├── HelloWorld.java
@@ -40,6 +39,5 @@ SimpleJavaProjects/
 │   └── ToDoList.java
 ├── .gitignore
 └── README.md
-```
 </pre>
 
