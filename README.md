@@ -2,13 +2,13 @@
 
 A collection of simple Java projects created for learning and practice purposes.
 
-## Planned Projects
+## 📝 Planned Projects
 
 - [x] Hello World
-- [x] Simple Calculator (basic operations)
-- [ ] Console To-Do List (manage tasks)
+- [x] Simple Console Calculator (basic operations)
+- [x] Console To-Do List (task managing)
 
-## ⚙️ Technologies Used
+## 🧰 Technologies Used
 
 - Java 17
 - IntelliJ IDEA
@@ -26,4 +26,20 @@ A collection of simple Java projects created for learning and practice purposes.
 ## 📁 Structure
 
 Each project is located in separe .java file under src/.
+
 Example: SimpleCalculator.java contains the calculator code.
+
+SimpleJavaProjects/
+
+<pre>
+```
+SimpleJavaProjects/
+├── src/
+│   ├── HelloWorld.java
+│   ├── Calculator.java
+│   └── ToDoList.java
+├── .gitignore
+└── README.md
+```
+</pre>
+
